@@ -1,0 +1,875 @@
+{
+  "sessions": [
+    {
+      "id": "UPDZ7OqooX",
+      "createdAt": "2026-04-09T14:32:46.994Z",
+      "role": "hr-general",
+      "candidateName": "Pratham",
+      "interviewMode": "behavioral + technical",
+      "difficulty": "easy",
+      "persona": "startup-founder",
+      "pressureMode": "high-pressure",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestionIds": [
+        "hr_b_01",
+        "hr_b_04"
+      ],
+      "currentQuestion": {
+        "id": "hr_b_04",
+        "role": "hr-general",
+        "category": "behavioral",
+        "difficulty": "hard",
+        "question": "Tell me about a failure and what changed because of it.",
+        "expectedPoints": [
+          "failure context",
+          "ownership",
+          "response",
+          "learning",
+          "later improvement"
+        ],
+        "followUps": [
+          "What was your responsibility in that failure?",
+          "How did your behavior change afterward?"
+        ],
+        "keywords": [
+          "failure",
+          "mistake",
+          "learn"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Tell me about yourself in a concise way.",
+          "questionMeta": {
+            "id": "hr_b_01",
+            "role": "hr-general",
+            "category": "behavioral",
+            "difficulty": "easy",
+            "question": "Tell me about yourself in a concise way.",
+            "expectedPoints": [
+              "present background",
+              "strengths",
+              "example/proof",
+              "why role"
+            ],
+            "followUps": [
+              "That was broad. What is the core theme of your profile?",
+              "Which achievement best represents you?"
+            ],
+            "keywords": [
+              "background",
+              "strength",
+              "project"
+            ]
+          },
+          "answer": "good afternoon sir myself University I did my school I am learning I also know how to  good afternoon sir",
+          "createdAt": "2026-04-09T14:34:07.002Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3,
+              "clarity": 5.4,
+              "structure": 5.4,
+              "specificity": 3,
+              "confidence": 3.7,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 4.3
+            },
+            "evidence": [
+              "Response length captured at ~80 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer is too short to create strong interviewer confidence.",
+              "Important expected points were missing.",
+              "Add concrete actions, tools, or numbers to make the answer stronger.",
+              "The response needs clearer beginning, middle, and end."
+            ],
+            "improvements": [
+              "Explicitly cover this missing point next time: present background.",
+              "Open with one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if it is approximate.",
+              "Use STAR: situation, task, action, result.",
+              "End with a clear lesson or decision insight."
+            ],
+            "fillerCount": 0,
+            "wordCount": 20,
+            "coveredPoints": [],
+            "missingPoints": [
+              "present background",
+              "strengths",
+              "example/proof",
+              "why role"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": true,
+              "result": false
+            },
+            "responseSeconds": 80,
+            "rewrite": "A stronger version could sound like this: I was working in a situation where present background. My responsibility was to take ownership of the key decision and execute it with the right trade-offs. I chose a specific approach, coordinated with the right people, and tracked the impact using clear signals. As a result, we improved the outcome in a measurable way, and I learned how to communicate the reasoning more clearly under pressure."
+          },
+          "followUp": "Go deeper on this missing part: present background.",
+          "responseSeconds": 80,
+          "pressureScoreBefore": 72
+        }
+      ],
+      "pressureScore": 86,
+      "interviewer": {
+        "name": "Kabir Shah",
+        "title": "Founder Interviewer",
+        "style": "Fast-moving, practical, and impact focused.",
+        "pressureMultiplier": 1.15,
+        "intro": "I care about ownership, speed, and judgment. Keep it practical and outcome oriented."
+      },
+      "endedAt": null,
+      "summary": null
+    },
+    {
+      "id": "nCbTTvqvb-",
+      "createdAt": "2026-04-09T14:29:19.678Z",
+      "role": "software-engineer",
+      "candidateName": "Pratham",
+      "interviewMode": "behavioral + technical",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestionIds": [
+        "se_b_02",
+        "se_b_03",
+        "se_b_05",
+        "se_t_01"
+      ],
+      "currentQuestion": {
+        "id": "se_t_01",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "How would you improve the performance of a slow web application?",
+        "expectedPoints": [
+          "identify bottleneck",
+          "measure baseline",
+          "frontend/backend ideas",
+          "prioritize impact",
+          "validate results"
+        ],
+        "followUps": [
+          "What would you measure first?",
+          "How would you know the change worked?"
+        ],
+        "keywords": [
+          "performance",
+          "cache",
+          "query",
+          "latency",
+          "bundle"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Walk me through a feature you designed end to end.",
+          "questionMeta": {
+            "id": "se_b_02",
+            "role": "software-engineer",
+            "category": "behavioral",
+            "difficulty": "medium",
+            "question": "Walk me through a feature you designed end to end.",
+            "expectedPoints": [
+              "problem context",
+              "your ownership",
+              "design decisions",
+              "trade-offs",
+              "outcome"
+            ],
+            "followUps": [
+              "What trade-off was hardest?",
+              "What would you redesign now?"
+            ],
+            "keywords": [
+              "design",
+              "api",
+              "database",
+              "frontend",
+              "trade-off"
+            ]
+          },
+          "answer": "feature that are designed into end is I made the AI mock interview analyser and I will the proto type and right now I am working on it so it is one of my project  on that thing and I personally think that is one of the very great ideas that I am working so that's what I think so",
+          "createdAt": "2026-04-09T14:30:27.289Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 4.8,
+              "clarity": 5.4,
+              "structure": 4.2,
+              "specificity": 3.7,
+              "confidence": 5,
+              "delivery": 5.8,
+              "roleFit": 5.4,
+              "overall": 4.9
+            },
+            "evidence": [
+              "Covered 1/5 expected answer points.",
+              "Response length captured at ~68 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Important expected points were missing.",
+              "Add concrete actions, tools, or numbers to make the answer stronger.",
+              "The response needs clearer beginning, middle, and end."
+            ],
+            "improvements": [
+              "Explicitly cover this missing point next time: problem context.",
+              "Open with one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if it is approximate.",
+              "Use STAR: situation, task, action, result.",
+              "End with a clear lesson or decision insight."
+            ],
+            "fillerCount": 0,
+            "wordCount": 60,
+            "coveredPoints": [
+              "design decisions"
+            ],
+            "missingPoints": [
+              "problem context",
+              "your ownership",
+              "trade-offs",
+              "outcome"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 68,
+            "rewrite": "A stronger version could sound like this: I was working in a situation where problem context. My responsibility was to take ownership of the key decision and execute it with the right trade-offs. I chose a specific approach, coordinated with the right people, and tracked the impact using clear signals. As a result, we improved the outcome in a measurable way, and I learned how to communicate the reasoning more clearly under pressure."
+          },
+          "followUp": "Go deeper on this missing part: problem context.",
+          "responseSeconds": 68,
+          "pressureScoreBefore": 48
+        },
+        {
+          "question": "Tell me about a difficult bug you solved.",
+          "questionMeta": {
+            "id": "se_b_03",
+            "role": "software-engineer",
+            "category": "behavioral",
+            "difficulty": "medium",
+            "question": "Tell me about a difficult bug you solved.",
+            "expectedPoints": [
+              "bug context",
+              "debug process",
+              "root cause",
+              "fix",
+              "learning"
+            ],
+            "followUps": [
+              "How did you narrow the root cause?",
+              "How did you prevent it from recurring?"
+            ],
+            "keywords": [
+              "bug",
+              "debug",
+              "logs",
+              "fix"
+            ]
+          },
+          "answer": "I am really sorry to say but does not been a very difficult bug I saw the small bugs and solving right now I have solved is in the back in because enough my great interest is in back in I am not really interested in front and because the personal thing that Ei is the thing which is very good for back and but I don't think that it is also sorry",
+          "createdAt": "2026-04-09T14:31:10.819Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 4.8,
+              "clarity": 5.4,
+              "structure": 5.2,
+              "specificity": 3.7,
+              "confidence": 5,
+              "delivery": 5.8,
+              "roleFit": 5.4,
+              "overall": 5
+            },
+            "evidence": [
+              "Covered 1/5 expected answer points.",
+              "Response length captured at ~43 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Important expected points were missing.",
+              "Add concrete actions, tools, or numbers to make the answer stronger.",
+              "The response needs clearer beginning, middle, and end."
+            ],
+            "improvements": [
+              "Explicitly cover this missing point next time: bug context.",
+              "Open with one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if it is approximate.",
+              "Use STAR: situation, task, action, result.",
+              "End with a clear lesson or decision insight."
+            ],
+            "fillerCount": 0,
+            "wordCount": 73,
+            "coveredPoints": [
+              "root cause"
+            ],
+            "missingPoints": [
+              "bug context",
+              "debug process",
+              "fix",
+              "learning"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 43,
+            "rewrite": "A stronger version could sound like this: I was working in a situation where bug context. My responsibility was to take ownership of the key decision and execute it with the right trade-offs. I chose a specific approach, coordinated with the right people, and tracked the impact using clear signals. As a result, we improved the outcome in a measurable way, and I learned how to communicate the reasoning more clearly under pressure."
+          },
+          "followUp": "Go deeper on this missing part: bug context.",
+          "responseSeconds": 43,
+          "pressureScoreBefore": 56
+        },
+        {
+          "question": "Describe a disagreement with a teammate on a technical decision.",
+          "questionMeta": {
+            "id": "se_b_05",
+            "role": "software-engineer",
+            "category": "behavioral",
+            "difficulty": "medium",
+            "question": "Describe a disagreement with a teammate on a technical decision.",
+            "expectedPoints": [
+              "disagreement",
+              "your stance",
+              "communication",
+              "resolution",
+              "lesson"
+            ],
+            "followUps": [
+              "How did you keep the discussion constructive?",
+              "What did you learn about collaboration?"
+            ],
+            "keywords": [
+              "team",
+              "decision",
+              "technical",
+              "resolve"
+            ]
+          },
+          "answer": "I can describe any number of disagreement to the Demat on a technical decisions has been around d's agreements with the teammates one of my friends with me and  disagreement we should do the training of AI through API is an I was like no we need to build an alarm",
+          "createdAt": "2026-04-09T14:32:01.996Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 6,
+              "clarity": 3.8,
+              "structure": 3,
+              "specificity": 5.1,
+              "confidence": 4.7,
+              "delivery": 5.6,
+              "roleFit": 7.2,
+              "overall": 5
+            },
+            "evidence": [
+              "Covered 1/5 expected answer points.",
+              "Used 3 role-relevant signals for software engineer.",
+              "Detected 1 filler word.",
+              "Response length captured at ~51 seconds."
+            ],
+            "strengths": [
+              "The answer reflected role-relevant thinking."
+            ],
+            "weaknesses": [
+              "Important expected points were missing.",
+              "Add concrete actions, tools, or numbers to make the answer stronger.",
+              "The response needs clearer beginning, middle, and end."
+            ],
+            "improvements": [
+              "Explicitly cover this missing point next time: your stance.",
+              "Open with one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if it is approximate.",
+              "Use STAR: situation, task, action, result.",
+              "End with a clear lesson or decision insight."
+            ],
+            "fillerCount": 1,
+            "wordCount": 51,
+            "coveredPoints": [
+              "disagreement"
+            ],
+            "missingPoints": [
+              "your stance",
+              "communication",
+              "resolution",
+              "lesson"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 51,
+            "rewrite": "A stronger version could sound like this: I was working in a situation where your stance. My responsibility was to take ownership of the key decision and execute it with the right trade-offs. I chose a specific approach, coordinated with the right people, and tracked the impact using clear signals. As a result, we improved the outcome in a measurable way, and I learned how to communicate the reasoning more clearly under pressure."
+          },
+          "followUp": "Go deeper on this missing part: your stance.",
+          "responseSeconds": 51,
+          "pressureScoreBefore": 64
+        }
+      ],
+      "pressureScore": 72,
+      "interviewer": {
+        "name": "Ananya Rao",
+        "title": "Senior Interviewer",
+        "style": "Calm, deliberate, and detail-oriented.",
+        "pressureMultiplier": 1,
+        "intro": "Welcome. I will evaluate clarity, structure, and evidence. Take a breath, and answer with specifics."
+      },
+      "endedAt": "2026-04-09T14:32:08.461Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 5.2,
+          "clarity": 4.9,
+          "structure": 4.1,
+          "specificity": 4.2,
+          "confidence": 4.9,
+          "delivery": 5.7,
+          "roleFit": 6,
+          "overall": 5
+        },
+        "strengths": [
+          "The answer reflected role-relevant thinking."
+        ],
+        "weaknesses": [
+          "Important expected points were missing.",
+          "Add concrete actions, tools, or numbers to make the answer stronger.",
+          "The response needs clearer beginning, middle, and end."
+        ],
+        "missingThemes": [
+          "problem context",
+          "your ownership",
+          "trade-offs",
+          "outcome",
+          "bug context"
+        ],
+        "recommendation": "Focus on clearer structure, stronger evidence, and more complete answers under pressure."
+      }
+    },
+    {
+      "id": "cd0mgGRwLE",
+      "createdAt": "2026-04-09T08:28:07.303Z",
+      "role": "hr-general",
+      "candidateName": "Pratham thatte",
+      "interviewMode": "behavioral + technical",
+      "difficulty": "easy",
+      "persona": "strict-panelist",
+      "pressureMode": "high-pressure",
+      "resumeText": "i know backend ",
+      "jdText": "a backend developer",
+      "askedQuestionIds": [
+        "hr_b_01",
+        "hr_b_04"
+      ],
+      "currentQuestion": {
+        "id": "hr_b_04",
+        "role": "hr-general",
+        "category": "behavioral",
+        "difficulty": "hard",
+        "question": "Tell me about a failure and what changed because of it.",
+        "expectedPoints": [
+          "failure context",
+          "ownership",
+          "response",
+          "learning",
+          "later improvement"
+        ],
+        "followUps": [
+          "What was your responsibility in that failure?",
+          "How did your behavior change afterward?"
+        ],
+        "keywords": [
+          "failure",
+          "mistake",
+          "learn"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Tell me about yourself in a concise way.",
+          "questionMeta": {
+            "id": "hr_b_01",
+            "role": "hr-general",
+            "category": "behavioral",
+            "difficulty": "easy",
+            "question": "Tell me about yourself in a concise way.",
+            "expectedPoints": [
+              "present background",
+              "strengths",
+              "example/proof",
+              "why role"
+            ],
+            "followUps": [
+              "That was broad. What is the core theme of your profile?",
+              "Which achievement best represents you?"
+            ],
+            "keywords": [
+              "background",
+              "strength",
+              "project"
+            ]
+          },
+          "answer": "my name is pratham \ni love to make websites",
+          "createdAt": "2026-04-09T08:28:58.384Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.7,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "evidence": [
+              "Response length captured at ~51 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer is too short to create strong interviewer confidence.",
+              "Important expected points were missing.",
+              "Add concrete actions, tools, or numbers to make the answer stronger.",
+              "The response needs clearer beginning, middle, and end."
+            ],
+            "improvements": [
+              "Explicitly cover this missing point next time: present background.",
+              "Open with one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if it is approximate.",
+              "Use STAR: situation, task, action, result.",
+              "End with a clear lesson or decision insight."
+            ],
+            "fillerCount": 0,
+            "wordCount": 9,
+            "coveredPoints": [],
+            "missingPoints": [
+              "present background",
+              "strengths",
+              "example/proof",
+              "why role"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 51,
+            "rewrite": "A stronger version could sound like this: I was working in a situation where present background. My responsibility was to take ownership of the key decision and execute it with the right trade-offs. I chose a specific approach, coordinated with the right people, and tracked the impact using clear signals. As a result, we improved the outcome in a measurable way, and I learned how to communicate the reasoning more clearly under pressure."
+          },
+          "followUp": "Go deeper on this missing part: present background.",
+          "responseSeconds": 51,
+          "pressureScoreBefore": 72
+        }
+      ],
+      "pressureScore": 90,
+      "interviewer": {
+        "name": "Arjun Mehta",
+        "title": "Technical Panelist",
+        "style": "Sharp, direct, and high-pressure.",
+        "pressureMultiplier": 1.35,
+        "intro": "This round will be direct. Keep your answers structured, specific, and efficient."
+      },
+      "endedAt": null,
+      "summary": null
+    },
+    {
+      "id": "uZ-l5_3dur",
+      "createdAt": "2026-04-09T08:26:39.665Z",
+      "role": "software-engineer",
+      "candidateName": "Pratham",
+      "interviewMode": "behavioral + technical",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestionIds": [
+        "se_b_02",
+        "se_b_03"
+      ],
+      "currentQuestion": {
+        "id": "se_b_03",
+        "role": "software-engineer",
+        "category": "behavioral",
+        "difficulty": "medium",
+        "question": "Tell me about a difficult bug you solved.",
+        "expectedPoints": [
+          "bug context",
+          "debug process",
+          "root cause",
+          "fix",
+          "learning"
+        ],
+        "followUps": [
+          "How did you narrow the root cause?",
+          "How did you prevent it from recurring?"
+        ],
+        "keywords": [
+          "bug",
+          "debug",
+          "logs",
+          "fix"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Walk me through a feature you designed end to end.",
+          "questionMeta": {
+            "id": "se_b_02",
+            "role": "software-engineer",
+            "category": "behavioral",
+            "difficulty": "medium",
+            "question": "Walk me through a feature you designed end to end.",
+            "expectedPoints": [
+              "problem context",
+              "your ownership",
+              "design decisions",
+              "trade-offs",
+              "outcome"
+            ],
+            "followUps": [
+              "What trade-off was hardest?",
+              "What would you redesign now?"
+            ],
+            "keywords": [
+              "design",
+              "api",
+              "database",
+              "frontend",
+              "trade-off"
+            ]
+          },
+          "answer": "vgdjtyiury6tuyfdjtyh",
+          "createdAt": "2026-04-09T08:26:58.411Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.7,
+              "delivery": 5,
+              "roleFit": 4,
+              "overall": 3.7
+            },
+            "evidence": [
+              "Response length captured at ~19 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer is too short to create strong interviewer confidence.",
+              "Important expected points were missing.",
+              "Add concrete actions, tools, or numbers to make the answer stronger.",
+              "The response needs clearer beginning, middle, and end."
+            ],
+            "improvements": [
+              "Explicitly cover this missing point next time: problem context.",
+              "Open with one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if it is approximate.",
+              "Use STAR: situation, task, action, result.",
+              "End with a clear lesson or decision insight."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "problem context",
+              "your ownership",
+              "design decisions",
+              "trade-offs",
+              "outcome"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 19,
+            "rewrite": "A stronger version could sound like this: I was working in a situation where problem context. My responsibility was to take ownership of the key decision and execute it with the right trade-offs. I chose a specific approach, coordinated with the right people, and tracked the impact using clear signals. As a result, we improved the outcome in a measurable way, and I learned how to communicate the reasoning more clearly under pressure."
+          },
+          "followUp": "Go deeper on this missing part: problem context.",
+          "responseSeconds": 19,
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 56,
+      "interviewer": {
+        "name": "Ananya Rao",
+        "title": "Senior Interviewer",
+        "style": "Calm, deliberate, and detail-oriented.",
+        "pressureMultiplier": 1,
+        "intro": "Welcome. I will evaluate clarity, structure, and evidence. Take a breath, and answer with specifics."
+      },
+      "endedAt": null,
+      "summary": null
+    },
+    {
+      "id": "QiGULFN0nc",
+      "createdAt": "2026-04-09T07:43:38.730Z",
+      "role": "software-engineer",
+      "candidateName": "Pratham",
+      "interviewMode": "behavioral + technical",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestionIds": [
+        "se_b_02",
+        "se_b_03"
+      ],
+      "currentQuestion": {
+        "id": "se_b_03",
+        "role": "software-engineer",
+        "category": "behavioral",
+        "difficulty": "medium",
+        "question": "Tell me about a difficult bug you solved.",
+        "expectedPoints": [
+          "bug context",
+          "debug process",
+          "root cause",
+          "fix",
+          "learning"
+        ],
+        "followUps": [
+          "How did you narrow the root cause?",
+          "How did you prevent it from recurring?"
+        ],
+        "keywords": [
+          "bug",
+          "debug",
+          "logs",
+          "fix"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Walk me through a feature you designed end to end.",
+          "questionMeta": {
+            "id": "se_b_02",
+            "role": "software-engineer",
+            "category": "behavioral",
+            "difficulty": "medium",
+            "question": "Walk me through a feature you designed end to end.",
+            "expectedPoints": [
+              "problem context",
+              "your ownership",
+              "design decisions",
+              "trade-offs",
+              "outcome"
+            ],
+            "followUps": [
+              "What trade-off was hardest?",
+              "What would you redesign now?"
+            ],
+            "keywords": [
+              "design",
+              "api",
+              "database",
+              "frontend",
+              "trade-off"
+            ]
+          },
+          "answer": "jhftrtygxjhmjvghhulvvgup'",
+          "createdAt": "2026-04-09T07:44:11.478Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.7,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "evidence": [
+              "Response length captured at ~33 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer is too short to create strong interviewer confidence.",
+              "Important expected points were missing.",
+              "Add concrete actions, tools, or numbers to make the answer stronger.",
+              "The response needs clearer beginning, middle, and end."
+            ],
+            "improvements": [
+              "Explicitly cover this missing point next time: problem context.",
+              "Open with one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if it is approximate.",
+              "Use STAR: situation, task, action, result.",
+              "End with a clear lesson or decision insight."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "problem context",
+              "your ownership",
+              "design decisions",
+              "trade-offs",
+              "outcome"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 33,
+            "rewrite": "A stronger version could sound like this: I was working in a situation where problem context. My responsibility was to take ownership of the key decision and execute it with the right trade-offs. I chose a specific approach, coordinated with the right people, and tracked the impact using clear signals. As a result, we improved the outcome in a measurable way, and I learned how to communicate the reasoning more clearly under pressure."
+          },
+          "followUp": "Go deeper on this missing part: problem context.",
+          "responseSeconds": 33,
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 56,
+      "interviewer": {
+        "name": "Ananya Rao",
+        "title": "Senior Interviewer",
+        "style": "Calm, deliberate, and detail-oriented.",
+        "pressureMultiplier": 1,
+        "intro": "Welcome. I will evaluate clarity, structure, and evidence. Take a breath, and answer with specifics."
+      },
+      "endedAt": "2026-04-09T07:44:19.527Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.7,
+          "delivery": 5.8,
+          "roleFit": 4,
+          "overall": 3.8
+        },
+        "strengths": [],
+        "weaknesses": [
+          "Answer is too short to create strong interviewer confidence.",
+          "Important expected points were missing.",
+          "Add concrete actions, tools, or numbers to make the answer stronger.",
+          "The response needs clearer beginning, middle, and end."
+        ],
+        "missingThemes": [
+          "problem context",
+          "your ownership",
+          "design decisions",
+          "trade-offs",
+          "outcome"
+        ],
+        "recommendation": "Focus on clearer structure, stronger evidence, and more complete answers under pressure."
+      }
+    }
+  ]
+}

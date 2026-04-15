@@ -1,0 +1,2549 @@
+{
+  "sessions": [
+    {
+      "id": "NjmtvU3xzj",
+      "createdAt": "2026-04-15T14:32:12.829Z",
+      "role": "software-engineer",
+      "candidateName": "Pratham Thatte",
+      "interviewMode": "mixed",
+      "difficulty": "easy",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "What is Big O notation and why does it matter in software engineering?",
+        "Explain the difference between a process and a thread. When would you use one over the other?"
+      ],
+      "currentQuestion": "Explain the difference between a process and a thread. When would you use one over the other?",
+      "currentMeta": {
+        "id": "se-1",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+        "expectedPoints": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "keywords": [
+          "process",
+          "thread",
+          "concurrency",
+          "memory",
+          "synchronization"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "What is Big O notation and why does it matter in software engineering?",
+          "questionMeta": {
+            "id": "se-4",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "easy",
+            "question": "What is Big O notation and why does it matter in software engineering?",
+            "expectedPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "keywords": [
+              "big o",
+              "complexity",
+              "algorithm",
+              "performance",
+              "scalability"
+            ]
+          },
+          "answer": "gkg",
+          "createdAt": "2026-04-15T14:32:29.823Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5,
+              "roleFit": 4,
+              "overall": 3.7
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~17 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"time complexity\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 17,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When time complexity, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: time complexity?",
+          "responseSeconds": 17,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 55,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-15T14:32:34.603Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5,
+          "roleFit": 4,
+          "overall": 3.7
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 72,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "time complexity",
+          "space complexity",
+          "scalability",
+          "examples"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 0
+      }
+    },
+    {
+      "id": "XBTYXQOtgJ",
+      "createdAt": "2026-04-15T06:28:46.795Z",
+      "role": "software-engineer",
+      "candidateName": "Priyanshi Patidar",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?",
+        "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+        "Describe a situation where you disagreed with a technical decision made by your team lead.",
+        "Walk me through designing a rate limiter for a high-traffic API. What are the trade-offs?"
+      ],
+      "currentQuestion": "Walk me through designing a rate limiter for a high-traffic API. What are the trade-offs?",
+      "currentMeta": {
+        "id": "se-2",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "hard",
+        "question": "Walk me through designing a rate limiter for a high-traffic API. What are the trade-offs?",
+        "expectedPoints": [
+          "token bucket",
+          "sliding window",
+          "redis",
+          "distributed systems",
+          "latency"
+        ],
+        "keywords": [
+          "rate limit",
+          "redis",
+          "distributed",
+          "token bucket",
+          "api"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+          "questionMeta": {
+            "id": "se-1",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "medium",
+            "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+            "expectedPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "keywords": [
+              "process",
+              "thread",
+              "concurrency",
+              "memory",
+              "synchronization"
+            ]
+          },
+          "answer": "dsada",
+          "createdAt": "2026-04-15T06:30:22.629Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~96 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"memory sharing\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 96,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When memory sharing, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: memory sharing?",
+          "responseSeconds": 96,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 48
+        },
+        {
+          "question": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+          "questionMeta": {
+            "id": "se-3",
+            "role": "software-engineer",
+            "category": "behavioral",
+            "difficulty": "medium",
+            "question": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+            "expectedPoints": [
+              "planning",
+              "testing",
+              "team coordination",
+              "risk management"
+            ],
+            "keywords": [
+              "refactor",
+              "deadline",
+              "testing",
+              "technical debt",
+              "team"
+            ]
+          },
+          "answer": "sdfghj",
+          "createdAt": "2026-04-15T06:31:03.785Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~41 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"planning\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "planning",
+              "testing",
+              "team coordination",
+              "risk management"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 41,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When planning, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: planning?",
+          "responseSeconds": 41,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 55
+        },
+        {
+          "question": "Describe a situation where you disagreed with a technical decision made by your team lead.",
+          "questionMeta": {
+            "id": "se-6",
+            "role": "software-engineer",
+            "category": "behavioral",
+            "difficulty": "medium",
+            "question": "Describe a situation where you disagreed with a technical decision made by your team lead.",
+            "expectedPoints": [
+              "communication",
+              "data-backed argument",
+              "resolution",
+              "outcome"
+            ],
+            "keywords": [
+              "disagreement",
+              "communication",
+              "leadership",
+              "technical decision"
+            ]
+          },
+          "answer": "qwrtyujbc",
+          "createdAt": "2026-04-15T06:31:11.332Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5,
+              "roleFit": 4,
+              "overall": 3.7
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~8 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"communication\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "communication",
+              "data-backed argument",
+              "resolution",
+              "outcome"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 8,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When communication, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: communication?",
+          "responseSeconds": 8,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 62
+        }
+      ],
+      "pressureScore": 69,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-15T06:31:14.014Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5.5,
+          "roleFit": 4,
+          "overall": 3.8
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 72,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 3,
+        "totalDuration": 2
+      }
+    },
+    {
+      "id": "k9LifXT61-",
+      "createdAt": "2026-04-15T06:19:54.536Z",
+      "role": "software-engineer",
+      "candidateName": "cae",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?",
+        "Tell me about a time you had to refactor a large codebase under tight deadlines."
+      ],
+      "currentQuestion": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+      "currentMeta": {
+        "id": "se-3",
+        "role": "software-engineer",
+        "category": "behavioral",
+        "difficulty": "medium",
+        "question": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+        "expectedPoints": [
+          "planning",
+          "testing",
+          "team coordination",
+          "risk management"
+        ],
+        "keywords": [
+          "refactor",
+          "deadline",
+          "testing",
+          "technical debt",
+          "team"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+          "questionMeta": {
+            "id": "se-1",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "medium",
+            "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+            "expectedPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "keywords": [
+              "process",
+              "thread",
+              "concurrency",
+              "memory",
+              "synchronization"
+            ]
+          },
+          "answer": "dssds",
+          "createdAt": "2026-04-15T06:20:08.382Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5,
+              "roleFit": 4,
+              "overall": 3.7
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~14 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"memory sharing\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 14,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When memory sharing, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: memory sharing?",
+          "responseSeconds": 14,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 55,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-15T06:20:11.414Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5,
+          "roleFit": 4,
+          "overall": 3.7
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 72,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 0
+      }
+    },
+    {
+      "id": "hKKoeeK5Wr",
+      "createdAt": "2026-04-15T06:18:46.808Z",
+      "role": "software-engineer",
+      "candidateName": "var",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "high-pressure",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?"
+      ],
+      "currentQuestion": "Explain the difference between a process and a thread. When would you use one over the other?",
+      "currentMeta": {
+        "id": "se-1",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+        "expectedPoints": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "keywords": [
+          "process",
+          "thread",
+          "concurrency",
+          "memory",
+          "synchronization"
+        ]
+      },
+      "transcript": [],
+      "pressureScore": 72,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-15T06:19:43.115Z",
+      "summary": {
+        "averageMetrics": {},
+        "confidenceScore": 0,
+        "toneScore": 0,
+        "eyeContactScore": 0,
+        "strengths": [],
+        "weaknesses": [],
+        "missingThemes": [],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 0,
+        "totalDuration": 1
+      }
+    },
+    {
+      "id": "4whPFiwyMz",
+      "createdAt": "2026-04-15T06:16:07.434Z",
+      "role": "software-engineer",
+      "candidateName": "var",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "high-pressure",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?",
+        "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+        "Describe a situation where you disagreed with a technical decision made by your team lead."
+      ],
+      "currentQuestion": "Describe a situation where you disagreed with a technical decision made by your team lead.",
+      "currentMeta": {
+        "id": "se-6",
+        "role": "software-engineer",
+        "category": "behavioral",
+        "difficulty": "medium",
+        "question": "Describe a situation where you disagreed with a technical decision made by your team lead.",
+        "expectedPoints": [
+          "communication",
+          "data-backed argument",
+          "resolution",
+          "outcome"
+        ],
+        "keywords": [
+          "disagreement",
+          "communication",
+          "leadership",
+          "technical decision"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+          "questionMeta": {
+            "id": "se-1",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "medium",
+            "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+            "expectedPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "keywords": [
+              "process",
+              "thread",
+              "concurrency",
+              "memory",
+              "synchronization"
+            ]
+          },
+          "answer": "cv cv",
+          "createdAt": "2026-04-15T06:16:26.201Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5,
+              "roleFit": 4,
+              "overall": 3.7
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~19 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"memory sharing\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 2,
+            "coveredPoints": [],
+            "missingPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 19,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When memory sharing, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: memory sharing?",
+          "responseSeconds": 19,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 72
+        },
+        {
+          "question": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+          "questionMeta": {
+            "id": "se-3",
+            "role": "software-engineer",
+            "category": "behavioral",
+            "difficulty": "medium",
+            "question": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+            "expectedPoints": [
+              "planning",
+              "testing",
+              "team coordination",
+              "risk management"
+            ],
+            "keywords": [
+              "refactor",
+              "deadline",
+              "testing",
+              "technical debt",
+              "team"
+            ]
+          },
+          "answer": "cv cv vf",
+          "createdAt": "2026-04-15T06:16:36.597Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 4.6,
+              "roleFit": 4,
+              "overall": 3.7
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~10 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion.",
+              "Pressure appears to be affecting answer quality."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"planning\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 3,
+            "coveredPoints": [],
+            "missingPoints": [
+              "planning",
+              "testing",
+              "team coordination",
+              "risk management"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 10,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When planning, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: planning?",
+          "responseSeconds": 10,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 84
+        }
+      ],
+      "pressureScore": 95,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-15T06:16:40.628Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 4.8,
+          "roleFit": 4,
+          "overall": 3.7
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 72,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 2,
+        "totalDuration": 1
+      }
+    },
+    {
+      "id": "145BRLHR-X",
+      "createdAt": "2026-04-15T06:12:48.586Z",
+      "role": "software-engineer",
+      "candidateName": "Priyanshi Patidar",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?",
+        "Tell me about a time you had to refactor a large codebase under tight deadlines."
+      ],
+      "currentQuestion": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+      "currentMeta": {
+        "id": "se-3",
+        "role": "software-engineer",
+        "category": "behavioral",
+        "difficulty": "medium",
+        "question": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+        "expectedPoints": [
+          "planning",
+          "testing",
+          "team coordination",
+          "risk management"
+        ],
+        "keywords": [
+          "refactor",
+          "deadline",
+          "testing",
+          "technical debt",
+          "team"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+          "questionMeta": {
+            "id": "se-1",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "medium",
+            "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+            "expectedPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "keywords": [
+              "process",
+              "thread",
+              "concurrency",
+              "memory",
+              "synchronization"
+            ]
+          },
+          "answer": "asdfghjk",
+          "createdAt": "2026-04-15T06:12:53.036Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5,
+              "roleFit": 4,
+              "overall": 3.7
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~5 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"memory sharing\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 5,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When memory sharing, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: memory sharing?",
+          "responseSeconds": 5,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 55,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-15T06:13:37.770Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5,
+          "roleFit": 4,
+          "overall": 3.7
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 72,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 1
+      }
+    },
+    {
+      "id": "tRSIhbUgSk",
+      "createdAt": "2026-04-15T06:10:10.544Z",
+      "role": "software-engineer",
+      "candidateName": "Priyanshi Patidar",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?"
+      ],
+      "currentQuestion": "Explain the difference between a process and a thread. When would you use one over the other?",
+      "currentMeta": {
+        "id": "se-1",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+        "expectedPoints": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "keywords": [
+          "process",
+          "thread",
+          "concurrency",
+          "memory",
+          "synchronization"
+        ]
+      },
+      "transcript": [],
+      "pressureScore": 48,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-15T06:10:33.413Z",
+      "summary": {
+        "averageMetrics": {},
+        "confidenceScore": 0,
+        "toneScore": 0,
+        "eyeContactScore": 0,
+        "strengths": [],
+        "weaknesses": [],
+        "missingThemes": [],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 0,
+        "totalDuration": 0
+      }
+    },
+    {
+      "id": "JSm2purJ64",
+      "createdAt": "2026-04-14T20:46:44.697Z",
+      "role": "software-engineer",
+      "candidateName": "Priyanshi Patidar",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?",
+        "Tell me about a time you had to refactor a large codebase under tight deadlines."
+      ],
+      "currentQuestion": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+      "currentMeta": {
+        "id": "se-3",
+        "role": "software-engineer",
+        "category": "behavioral",
+        "difficulty": "medium",
+        "question": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+        "expectedPoints": [
+          "planning",
+          "testing",
+          "team coordination",
+          "risk management"
+        ],
+        "keywords": [
+          "refactor",
+          "deadline",
+          "testing",
+          "technical debt",
+          "team"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+          "questionMeta": {
+            "id": "se-1",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "medium",
+            "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+            "expectedPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "keywords": [
+              "process",
+              "thread",
+              "concurrency",
+              "memory",
+              "synchronization"
+            ]
+          },
+          "answer": "xsa",
+          "createdAt": "2026-04-14T20:47:45.663Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~61 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"memory sharing\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 61,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When memory sharing, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: memory sharing?",
+          "responseSeconds": 61,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 55,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-14T20:48:38.141Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5.8,
+          "roleFit": 4,
+          "overall": 3.8
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 72,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 2
+      }
+    },
+    {
+      "id": "EPHmmMJ4RR",
+      "createdAt": "2026-04-14T20:17:05.452Z",
+      "role": "software-engineer",
+      "candidateName": "Priyanshi Patidar",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?",
+        "Tell me about a time you had to refactor a large codebase under tight deadlines."
+      ],
+      "currentQuestion": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+      "currentMeta": {
+        "id": "se-3",
+        "role": "software-engineer",
+        "category": "behavioral",
+        "difficulty": "medium",
+        "question": "Tell me about a time you had to refactor a large codebase under tight deadlines.",
+        "expectedPoints": [
+          "planning",
+          "testing",
+          "team coordination",
+          "risk management"
+        ],
+        "keywords": [
+          "refactor",
+          "deadline",
+          "testing",
+          "technical debt",
+          "team"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+          "questionMeta": {
+            "id": "se-1",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "medium",
+            "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+            "expectedPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "keywords": [
+              "process",
+              "thread",
+              "concurrency",
+              "memory",
+              "synchronization"
+            ]
+          },
+          "answer": "qwdbhouhs",
+          "createdAt": "2026-04-14T20:17:21.422Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5,
+              "roleFit": 4,
+              "overall": 3.7
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 72,
+            "evidence": [
+              "Response captured at ~16 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"memory sharing\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 16,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When memory sharing, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: memory sharing?",
+          "responseSeconds": 16,
+          "presenceSnapshot": {
+            "eyeContact": 72,
+            "posture": 74,
+            "attention": 78,
+            "confidence": 70,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 55,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-14T20:17:44.508Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5,
+          "roleFit": 4,
+          "overall": 3.7
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 72,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 1
+      }
+    },
+    {
+      "id": "tbbEuq2sVO",
+      "createdAt": "2026-04-10T15:37:18.851Z",
+      "role": "software-engineer",
+      "candidateName": "pratham",
+      "interviewMode": "mixed",
+      "difficulty": "easy",
+      "persona": "startup-founder",
+      "pressureMode": "high-pressure",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "What is Big O notation and why does it matter in software engineering?",
+        "Explain the difference between a process and a thread. When would you use one over the other?"
+      ],
+      "currentQuestion": "Explain the difference between a process and a thread. When would you use one over the other?",
+      "currentMeta": {
+        "id": "se-1",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+        "expectedPoints": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "keywords": [
+          "process",
+          "thread",
+          "concurrency",
+          "memory",
+          "synchronization"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "What is Big O notation and why does it matter in software engineering?",
+          "questionMeta": {
+            "id": "se-4",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "easy",
+            "question": "What is Big O notation and why does it matter in software engineering?",
+            "expectedPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "keywords": [
+              "big o",
+              "complexity",
+              "algorithm",
+              "performance",
+              "scalability"
+            ]
+          },
+          "answer": "Big O notation is a mathematical notation used in computer science to describe the performance or complexity of an algorithm, specifically focusing on its worst-case scenario as input size (\n) grows. It measures time (speed) or space (memory) requirements by identifying the fastest-growing term and ignoring constants",
+          "createdAt": "2026-04-10T15:38:42.032Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 8.3,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 5.1,
+              "confidence": 5,
+              "delivery": 5.8,
+              "roleFit": 8.6,
+              "overall": 5.7
+            },
+            "confidenceScore": 50,
+            "toneScore": 36,
+            "eyeContactScore": 68,
+            "evidence": [
+              "Covered 2/4 expected answer points.",
+              "Used 4 role-relevant keywords for software engineer.",
+              "Response captured at ~83 seconds."
+            ],
+            "strengths": [
+              "Answer stayed tightly relevant to the question.",
+              "Answer reflected strong domain expertise."
+            ],
+            "weaknesses": [
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"scalability\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 48,
+            "coveredPoints": [
+              "time complexity",
+              "space complexity"
+            ],
+            "missingPoints": [
+              "scalability",
+              "examples"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 83,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When scalability, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: scalability?",
+          "responseSeconds": 83,
+          "presenceSnapshot": {
+            "eyeContact": 68,
+            "posture": 89,
+            "attention": 66,
+            "confidence": 74,
+            "expression": "Focused"
+          },
+          "pressureScoreBefore": 72
+        }
+      ],
+      "pressureScore": 84,
+      "interviewer": {
+        "name": "Kai Okafor",
+        "title": "Co-Founder & CTO",
+        "style": "Fast-paced, loves first-principles thinking and execution stories.",
+        "tone": "Excited and curious, looking for builders who get things done.",
+        "intro": "Hey, Kai here. We move fast and I love builders. Tell me how you think. Let us go!"
+      },
+      "endedAt": "2026-04-10T15:38:59.215Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 8.3,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 5.1,
+          "confidence": 5,
+          "delivery": 5.8,
+          "roleFit": 8.6,
+          "overall": 5.7
+        },
+        "confidenceScore": 50,
+        "toneScore": 36,
+        "eyeContactScore": 68,
+        "strengths": [
+          "Answer stayed tightly relevant to the question.",
+          "Answer reflected strong domain expertise."
+        ],
+        "weaknesses": [
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "scalability",
+          "examples"
+        ],
+        "hiringRecommendation": "Borderline",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 2
+      }
+    },
+    {
+      "id": "wPYL_V7348",
+      "createdAt": "2026-04-10T08:19:30.027Z",
+      "role": "software-engineer",
+      "candidateName": "pratham",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?"
+      ],
+      "currentQuestion": "Explain the difference between a process and a thread. When would you use one over the other?",
+      "currentMeta": {
+        "id": "se-1",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+        "expectedPoints": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "keywords": [
+          "process",
+          "thread",
+          "concurrency",
+          "memory",
+          "synchronization"
+        ]
+      },
+      "transcript": [],
+      "pressureScore": 48,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": null,
+      "summary": null
+    },
+    {
+      "id": "Md6BoKk0FV",
+      "createdAt": "2026-04-10T08:05:36.636Z",
+      "role": "software-engineer",
+      "candidateName": "pratham",
+      "interviewMode": "mixed",
+      "difficulty": "easy",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "What is Big O notation and why does it matter in software engineering?",
+        "Explain the difference between a process and a thread. When would you use one over the other?"
+      ],
+      "currentQuestion": "Explain the difference between a process and a thread. When would you use one over the other?",
+      "currentMeta": {
+        "id": "se-1",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+        "expectedPoints": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "keywords": [
+          "process",
+          "thread",
+          "concurrency",
+          "memory",
+          "synchronization"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "What is Big O notation and why does it matter in software engineering?",
+          "questionMeta": {
+            "id": "se-4",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "easy",
+            "question": "What is Big O notation and why does it matter in software engineering?",
+            "expectedPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "keywords": [
+              "big o",
+              "complexity",
+              "algorithm",
+              "performance",
+              "scalability"
+            ]
+          },
+          "answer": ",bhjghjkh",
+          "createdAt": "2026-04-10T08:07:24.711Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 85,
+            "evidence": [
+              "Response captured at ~108 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"time complexity\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 108,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When time complexity, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: time complexity?",
+          "responseSeconds": 108,
+          "presenceSnapshot": {
+            "eyeContact": 85,
+            "posture": 62,
+            "attention": 81,
+            "confidence": 77,
+            "expression": "Focused"
+          },
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 55,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-10T08:07:42.316Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5.8,
+          "roleFit": 4,
+          "overall": 3.8
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 85,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "time complexity",
+          "space complexity",
+          "scalability",
+          "examples"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 2
+      }
+    },
+    {
+      "id": "OI2lttOI_8",
+      "createdAt": "2026-04-10T06:02:16.642Z",
+      "role": "software-engineer",
+      "candidateName": "pratham thatte",
+      "interviewMode": "mixed",
+      "difficulty": "easy",
+      "persona": "startup-founder",
+      "pressureMode": "high-pressure",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "What is Big O notation and why does it matter in software engineering?",
+        "Explain the difference between a process and a thread. When would you use one over the other?"
+      ],
+      "currentQuestion": "Explain the difference between a process and a thread. When would you use one over the other?",
+      "currentMeta": {
+        "id": "se-1",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+        "expectedPoints": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "keywords": [
+          "process",
+          "thread",
+          "concurrency",
+          "memory",
+          "synchronization"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "What is Big O notation and why does it matter in software engineering?",
+          "questionMeta": {
+            "id": "se-4",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "easy",
+            "question": "What is Big O notation and why does it matter in software engineering?",
+            "expectedPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "keywords": [
+              "big o",
+              "complexity",
+              "algorithm",
+              "performance",
+              "scalability"
+            ]
+          },
+          "answer": "hi",
+          "createdAt": "2026-04-10T06:03:19.361Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 95,
+            "evidence": [
+              "Response captured at ~63 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"time complexity\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 63,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When time complexity, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: time complexity?",
+          "responseSeconds": 63,
+          "presenceSnapshot": {
+            "eyeContact": 95,
+            "posture": 78,
+            "attention": 61,
+            "confidence": 80,
+            "expression": "Neutral"
+          },
+          "pressureScoreBefore": 72
+        }
+      ],
+      "pressureScore": 84,
+      "interviewer": {
+        "name": "Kai Okafor",
+        "title": "Co-Founder & CTO",
+        "style": "Fast-paced, loves first-principles thinking and execution stories.",
+        "tone": "Excited and curious, looking for builders who get things done.",
+        "intro": "Hey, Kai here. We move fast and I love builders. Tell me how you think. Let us go!"
+      },
+      "endedAt": "2026-04-10T06:03:24.627Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5.8,
+          "roleFit": 4,
+          "overall": 3.8
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 95,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "time complexity",
+          "space complexity",
+          "scalability",
+          "examples"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 1
+      }
+    },
+    {
+      "id": "ie7mUJ5Waq",
+      "createdAt": "2026-04-10T04:45:42.904Z",
+      "role": "data-scientist",
+      "candidateName": "Aditya",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the bias-variance tradeoff and how it influences model selection.",
+        "Walk me through a data science project you led from problem definition to deployment."
+      ],
+      "currentQuestion": "Walk me through a data science project you led from problem definition to deployment.",
+      "currentMeta": {
+        "id": "ds-3",
+        "role": "data-scientist",
+        "category": "behavioral",
+        "difficulty": "medium",
+        "question": "Walk me through a data science project you led from problem definition to deployment.",
+        "expectedPoints": [
+          "problem framing",
+          "EDA",
+          "modeling",
+          "evaluation",
+          "deployment"
+        ],
+        "keywords": [
+          "project",
+          "EDA",
+          "model",
+          "deployment",
+          "stakeholders",
+          "impact"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "Explain the bias-variance tradeoff and how it influences model selection.",
+          "questionMeta": {
+            "id": "ds-1",
+            "role": "data-scientist",
+            "category": "technical",
+            "difficulty": "medium",
+            "question": "Explain the bias-variance tradeoff and how it influences model selection.",
+            "expectedPoints": [
+              "underfitting",
+              "overfitting",
+              "regularization",
+              "cross-validation"
+            ],
+            "keywords": [
+              "bias",
+              "variance",
+              "overfitting",
+              "regularization",
+              "cross-validation"
+            ]
+          },
+          "answer": "gu",
+          "createdAt": "2026-04-10T04:47:24.348Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 83,
+            "evidence": [
+              "Response captured at ~101 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"underfitting\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "underfitting",
+              "overfitting",
+              "regularization",
+              "cross-validation"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 101,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When underfitting, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: underfitting?",
+          "responseSeconds": 101,
+          "presenceSnapshot": {
+            "eyeContact": 83,
+            "posture": 81,
+            "attention": 72,
+            "confidence": 79,
+            "expression": "Attentive"
+          },
+          "pressureScoreBefore": 48
+        }
+      ],
+      "pressureScore": 55,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-10T04:47:40.136Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 3.5,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3,
+          "confidence": 3.5,
+          "delivery": 5.8,
+          "roleFit": 4,
+          "overall": 3.8
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 83,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "underfitting",
+          "overfitting",
+          "regularization",
+          "cross-validation"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 1,
+        "totalDuration": 2
+      }
+    },
+    {
+      "id": "F_CjbAZXHg",
+      "createdAt": "2026-04-10T04:43:00.323Z",
+      "role": "software-engineer",
+      "candidateName": "Test",
+      "interviewMode": "mixed",
+      "difficulty": "medium",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "Explain the difference between a process and a thread. When would you use one over the other?"
+      ],
+      "currentQuestion": "Explain the difference between a process and a thread. When would you use one over the other?",
+      "currentMeta": {
+        "id": "se-1",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "medium",
+        "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+        "expectedPoints": [
+          "memory sharing",
+          "context switching",
+          "concurrency",
+          "OS scheduling"
+        ],
+        "keywords": [
+          "process",
+          "thread",
+          "concurrency",
+          "memory",
+          "synchronization"
+        ]
+      },
+      "transcript": [],
+      "pressureScore": 48,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": null,
+      "summary": null
+    },
+    {
+      "id": "XBKWHqx465",
+      "createdAt": "2026-04-09T18:41:42.482Z",
+      "role": "software-engineer",
+      "candidateName": "prince",
+      "interviewMode": "mixed",
+      "difficulty": "easy",
+      "persona": "calm-senior-interviewer",
+      "pressureMode": "balanced",
+      "resumeText": "",
+      "jdText": "",
+      "askedQuestions": [
+        "What is Big O notation and why does it matter in software engineering?",
+        "Explain the difference between a process and a thread. When would you use one over the other?",
+        "Walk me through designing a rate limiter for a high-traffic API. What are the trade-offs?"
+      ],
+      "currentQuestion": "Walk me through designing a rate limiter for a high-traffic API. What are the trade-offs?",
+      "currentMeta": {
+        "id": "se-2",
+        "role": "software-engineer",
+        "category": "technical",
+        "difficulty": "hard",
+        "question": "Walk me through designing a rate limiter for a high-traffic API. What are the trade-offs?",
+        "expectedPoints": [
+          "token bucket",
+          "sliding window",
+          "redis",
+          "distributed systems",
+          "latency"
+        ],
+        "keywords": [
+          "rate limit",
+          "redis",
+          "distributed",
+          "token bucket",
+          "api"
+        ]
+      },
+      "transcript": [
+        {
+          "question": "What is Big O notation and why does it matter in software engineering?",
+          "questionMeta": {
+            "id": "se-4",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "easy",
+            "question": "What is Big O notation and why does it matter in software engineering?",
+            "expectedPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "keywords": [
+              "big o",
+              "complexity",
+              "algorithm",
+              "performance",
+              "scalability"
+            ]
+          },
+          "answer": "jkbkjbkjb",
+          "createdAt": "2026-04-09T18:42:38.396Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 3.5,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 3,
+              "confidence": 3.5,
+              "delivery": 5.8,
+              "roleFit": 4,
+              "overall": 3.8
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 95,
+            "evidence": [
+              "Response captured at ~56 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"time complexity\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 1,
+            "coveredPoints": [],
+            "missingPoints": [
+              "time complexity",
+              "space complexity",
+              "scalability",
+              "examples"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 56,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When time complexity, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: time complexity?",
+          "responseSeconds": 56,
+          "presenceSnapshot": {
+            "eyeContact": 95,
+            "posture": 80,
+            "attention": 79,
+            "confidence": 86,
+            "expression": "Focused"
+          },
+          "pressureScoreBefore": 48
+        },
+        {
+          "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+          "questionMeta": {
+            "id": "se-1",
+            "role": "software-engineer",
+            "category": "technical",
+            "difficulty": "medium",
+            "question": "Explain the difference between a process and a thread. When would you use one over the other?",
+            "expectedPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "keywords": [
+              "process",
+              "thread",
+              "concurrency",
+              "memory",
+              "synchronization"
+            ]
+          },
+          "answer": "process is a instruction in execution where thread is a light weight process.\nProcess is executed independently, where threat can be executed parallel",
+          "createdAt": "2026-04-09T18:44:00.959Z",
+          "analysis": {
+            "metrics": {
+              "relevance": 4.7,
+              "clarity": 4,
+              "structure": 3,
+              "specificity": 4.4,
+              "confidence": 3.5,
+              "delivery": 5.8,
+              "roleFit": 5.8,
+              "overall": 4.5
+            },
+            "confidenceScore": 35,
+            "toneScore": 36,
+            "eyeContactScore": 92,
+            "evidence": [
+              "Used 2 role-relevant keywords for software engineer.",
+              "Response captured at ~82 seconds."
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Answer too brief — longer responses build interviewer confidence.",
+              "Several expected points were not addressed.",
+              "Add concrete actions, tools, or numbers to strengthen credibility.",
+              "Structure needs clearer beginning, middle, and conclusion."
+            ],
+            "improvements": [
+              "Cover this missing point next time: \"memory sharing\".",
+              "Open with a one-line context, then state your exact role in the situation.",
+              "Add one measurable result, even if approximate.",
+              "Structure with STAR: Situation → Task → Action → Result.",
+              "End with a clear lesson, decision insight, or next step."
+            ],
+            "fillerCount": 0,
+            "wordCount": 23,
+            "coveredPoints": [],
+            "missingPoints": [
+              "memory sharing",
+              "context switching",
+              "concurrency",
+              "OS scheduling"
+            ],
+            "starCoverage": {
+              "situation": false,
+              "task": false,
+              "action": false,
+              "result": false
+            },
+            "responseSeconds": 82,
+            "idealAnswer": "A model answer would: clearly set context in 1-2 sentences, state your specific responsibility, describe 2-3 concrete actions you took (with tools/metrics if applicable), and close with a quantifiable outcome and reflection. Example: \"When memory sharing, I was responsible for [specific task]. I [specific action with tool/metric]. As a result, [measurable outcome], and I learned [key insight].\"",
+            "rewrite": "A stronger version: \"In [specific context], my role was to [concrete ownership]. I [specific action — tool, method, decision]. This led to [quantifiable outcome]. The key insight I took away was [lesson].\""
+          },
+          "followUp": "Can you elaborate on: memory sharing?",
+          "responseSeconds": 82,
+          "presenceSnapshot": {
+            "eyeContact": 92,
+            "posture": 90,
+            "attention": 61,
+            "confidence": 82,
+            "expression": "Engaged"
+          },
+          "pressureScoreBefore": 55
+        }
+      ],
+      "pressureScore": 62,
+      "interviewer": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Principal Engineer",
+        "style": "Methodical, thorough, focuses on depth over breadth.",
+        "tone": "Calm and encouraging, but expects precision.",
+        "intro": "Hello! I am Dr. Sarah Chen. I will be your interviewer today. Let us begin."
+      },
+      "endedAt": "2026-04-09T18:44:24.397Z",
+      "summary": {
+        "averageMetrics": {
+          "relevance": 4.1,
+          "clarity": 4,
+          "structure": 3,
+          "specificity": 3.7,
+          "confidence": 3.5,
+          "delivery": 5.8,
+          "roleFit": 4.9,
+          "overall": 4.2
+        },
+        "confidenceScore": 35,
+        "toneScore": 36,
+        "eyeContactScore": 94,
+        "strengths": [],
+        "weaknesses": [
+          "Answer too brief — longer responses build interviewer confidence.",
+          "Several expected points were not addressed.",
+          "Add concrete actions, tools, or numbers to strengthen credibility.",
+          "Structure needs clearer beginning, middle, and conclusion."
+        ],
+        "missingThemes": [
+          "time complexity",
+          "space complexity",
+          "scalability",
+          "examples"
+        ],
+        "hiringRecommendation": "No Hire",
+        "recommendation": "Focus on structured answers, stronger evidence, and reducing filler words.",
+        "questionsAnswered": 2,
+        "totalDuration": 3
+      }
+    }
+  ]
+}
